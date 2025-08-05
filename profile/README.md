@@ -11,4 +11,10 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Welcome~
+## Teaching
+
+### 2025 full 
+
+Principles of computer composition(PCC) (计算机组成原理)
+
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/dd6705b9-ded0-484f-8780-b4161893f68c" />
