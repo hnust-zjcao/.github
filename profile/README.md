@@ -16,5 +16,3 @@
 ### 2025 full 
 
 Principles of computer composition(PCC) (计算机组成原理)
-
-<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/dd6705b9-ded0-484f-8780-b4161893f68c" />
