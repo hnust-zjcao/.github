@@ -15,7 +15,9 @@
 
 ### 2025 full 
 
-- Principles of computer composition(PCC) (计算机组成原理)
+- 计算机组成原理 (Principles of computer composition )
+
+- 计算机组成原理***课程设计***
 
 ### 2025 spring
 
