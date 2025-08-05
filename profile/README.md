@@ -15,7 +15,7 @@
 
 ### 2025 full 
 
-- 计算机组成原理 (Principles of computer composition )
+- [计算机组成原理 (Principles of computer composition )](https://github.com/hnust-zjcao/2025full-pcc) 
 
 - 计算机组成原理***课程设计***
 
