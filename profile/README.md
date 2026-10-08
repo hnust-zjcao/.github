@@ -11,7 +11,7 @@
 - 🧙 Remember, ...
 
 > 
-> Hi there 👋, personal academic homepage/更多信息可访问: zjcao.github.io
+> Hi there 👋, personal academic homepage/更多信息请访问: zjcao.github.io
 
 
 
